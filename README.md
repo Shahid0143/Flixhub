@@ -2,20 +2,23 @@
 
 <h2>Discover a world of endless entertainment with FlixHub. Immerse yourself in a vast library of movies and TV shows, carefully curated to cater to every taste and preference. From gripping dramas to hilarious comedies, thrilling action flicks to heartwarming romances, FlixHub has something for everyone.</h2>  
 
-Home Page
+<h3>Home Page</h3>
+
+![Screenshot (368)](https://github.com/Shahid0143/Flixhub/assets/112757232/99142ef7-46d9-4af6-8f4b-110335cd81af)
+
+<h3>Treanding & Popluar</h3>
+
+![Screenshot (370)](https://github.com/Shahid0143/Flixhub/assets/112757232/e676dd4e-173f-4369-9dd5-d2b642432096)
+
+<h3>Movies section explore movies</h3>
+
+![Screenshot (372)](https://github.com/Shahid0143/Flixhub/assets/112757232/ade3450d-c8a9-42aa-bb6c-508ffa811230)
 
 
-![Screenshot (234)](https://github.com/Shahid0143/tan-shock-2774/assets/112754760/a627ba27-11ad-4921-b86e-a47a7e8c13f4)
+<h3>TV Shows section explore TV Shows</h3>
 
-Medicine Page
+![Screenshot (374)](https://github.com/Shahid0143/Flixhub/assets/112757232/05041426-7705-4af4-a44c-61e56bf8e4d1)
 
-![Screenshot (235)](https://github.com/Shahid0143/tan-shock-2774/assets/112754760/ca64f9ba-7384-4c41-8b84-1b1d4ab3a44a)
-
-Login page
-![Screenshot (236)](https://github.com/Shahid0143/tan-shock-2774/assets/112754760/64601bd9-8b07-499b-a3d3-c8c99a9861f1)
-
-SignUp page
-![Screenshot (237)](https://github.com/Shahid0143/tan-shock-2774/assets/112754760/3542fcb6-76e6-4075-8f45-b9a5ff14c2c8)
 
 SingleUserPage
 ![Screenshot (238)](https://github.com/Shahid0143/tan-shock-2774/assets/112754760/3a8faca1-3222-4fe0-ac21-149a158f9c5c)
