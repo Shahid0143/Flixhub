@@ -20,14 +20,14 @@
 ![Screenshot (374)](https://github.com/Shahid0143/Flixhub/assets/112757232/05041426-7705-4af4-a44c-61e56bf8e4d1)
 
 
-SingleUserPage
-![Screenshot (238)](https://github.com/Shahid0143/tan-shock-2774/assets/112754760/3a8faca1-3222-4fe0-ac21-149a158f9c5c)
+<h3>Search Section</h3>
 
-Cart Page
-
-![Screenshot (239)](https://github.com/Shahid0143/tan-shock-2774/assets/112754760/614945e8-2f14-4566-8278-5d12d734dad5)
+![Screenshot (376)](https://github.com/Shahid0143/Flixhub/assets/112757232/6b20f5cf-f586-4ef6-a824-5582e462ecf4)
 
 
+<h3>Detail Page for single card</h3>
+
+![Screenshot (378)](https://github.com/Shahid0143/Flixhub/assets/112757232/08087b67-aa6a-47a4-8618-1adb970b9dc1)
 
 ![Screenshot (240)](https://github.com/Shahid0143/tan-shock-2774/assets/112754760/50a77e03-315b-4187-8422-8f4b5977e402)
 
