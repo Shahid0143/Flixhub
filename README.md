@@ -29,38 +29,20 @@
 
 ![Screenshot (378)](https://github.com/Shahid0143/Flixhub/assets/112757232/08087b67-aa6a-47a4-8618-1adb970b9dc1)
 
-![Screenshot (240)](https://github.com/Shahid0143/tan-shock-2774/assets/112754760/50a77e03-315b-4187-8422-8f4b5977e402)
+<h3>Watch Tralior</h3>
 
-Payment page
-![Screenshot (241)](https://github.com/Shahid0143/tan-shock-2774/assets/112754760/865cd84b-9247-43ee-923e-076703b8386d)
+![Screenshot (380)](https://github.com/Shahid0143/Flixhub/assets/112757232/c31312e9-e118-4c3e-86dd-53a5da72a4b5)
 
-Admin Login
+<h3>Skeleton Effect</h3>
 
+![Screenshot (383)](https://github.com/Shahid0143/Flixhub/assets/112757232/f1f9b052-e898-4bd6-ad2a-e0fe01c03c7b)
 
-
-![Screenshot (242)](https://github.com/Shahid0143/tan-shock-2774/assets/112754760/aeb72aa1-8c14-4129-b7f8-138144ec8e35)
-Admin dashboard
-
-
-
-![Screenshot (243)](https://github.com/Shahid0143/tan-shock-2774/assets/112754760/adc046ef-35d7-48ce-9f80-dfcf4ea48d2d)
-
-Admin Addproduct
-
-![Screenshot (244)](https://github.com/Shahid0143/tan-shock-2774/assets/112754760/2e907b43-5ac6-434d-bfe6-d86dfd979e7e)
-
-Admin Manageproduct
-
-![Screenshot (246)](https://github.com/Shahid0143/tan-shock-2774/assets/112754760/2df4dee0-2cf6-41e1-a60d-1bdb9257af07)
-
-Admin Manageorder
-
-![Screenshot (245)](https://github.com/Shahid0143/tan-shock-2774/assets/112754760/6e9835ee-665e-43f5-85fe-9b28703e295a)
-
-Add Admin
-![Screenshot (247)](https://github.com/Shahid0143/tan-shock-2774/assets/112754760/089c6a6e-d1a6-4049-98f9-d8e49d69b47f)
-
-Manage Admin
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" />
+       
+<h4 align="center">Created By Shahid Raza</h4>
 
 
-![Screenshot (248)](https://github.com/Shahid0143/tan-shock-2774/assets/112754760/047dc483-9079-4d70-99eb-cff99f9816ed)
+
+
+
